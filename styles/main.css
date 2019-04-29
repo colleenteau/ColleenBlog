@@ -8,12 +8,13 @@ h1 {
     font-size: 50pt;
 }
 p {
-    font-size-adjust: 20pt;
-    color: orange
-
+    font-size-adjust: 30pt;
+    color: orange;
+    
 }
+
 button {
     font: 1em comic;
-    color: blue
+    color: blue;
 }
 
