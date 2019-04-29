@@ -1,12 +1,19 @@
 body {
     background-color: aqua;
     text-align: center;
+    font-family: 'Roboto Slab', serif;
+
 }
 h1 {
     font-size: 50pt;
 }
 p {
     font-size-adjust: 20pt;
-    color: pink
+    color: orange
+
+}
+button {
+    font: 1em comic;
+    color: blue
 }
 
