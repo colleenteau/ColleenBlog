@@ -1,0 +1,42 @@
+body {
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+
+}
+h1 {
+    font-size: 50pt;
+}
+p {
+    font-size-adjust: 30pt;
+    color: rgb(0, 68, 255);
+    
+}
+
+button {
+    font: 1em comic;
+    color: blue;
+}
+
+a {
+    background-color: red;
+  box-shadow: 0 5px 0 darkred;
+  color: white;
+  padding: 1em 1.5em;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  background-color: #ce0606;
+}
+
+a:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+img {
+    margin-top: 50px;
+}
